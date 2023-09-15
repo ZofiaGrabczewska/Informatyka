@@ -1,2 +1,4 @@
-# Informatyka
-Zadania z informatyki
+# \<Informatyka >
+`<Zofia Grąbczewska>
+
+## Zadania z informatyki
