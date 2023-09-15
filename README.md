@@ -1,4 +1,4 @@
 # \<Informatyka >
-`<Zofia Grąbczewska>
+Zofia Grąbczewska 4a
 
 ## Zadania z informatyki
